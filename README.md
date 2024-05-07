@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @simon-pfahler
-- 👀 I’m interested in Computational Physics and Bioinformatics, with a focus on Machine Learning
-- 🌱 I’m currently working on Neural Network preconditioners for Lattice QCD, and when I have time, on Cancer Progression Models in large phase spaces
+- 👀 I’m interested in Machine Learning for various applications, but I have a lot of other side projects as well
 - 📫 How to reach me: [Email](mailto:simon.pfahler@ur.de)
